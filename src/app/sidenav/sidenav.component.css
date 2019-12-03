@@ -1,0 +1,17 @@
+.sidenav{
+  border: 1px solid #9E9E9E;
+  height: 590px;
+  margin: 1px;
+  padding: 10px;
+}
+
+.sidenav-header{
+  height: 50px;
+  background-color: darkslateblue;
+  color: white;
+}
+
+.sidenav-header-content{
+  padding-left: 30%;
+  padding-top: 3%;
+}

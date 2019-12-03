@@ -1,0 +1,16 @@
+.content{
+  border: 1px solid #9E9E9E;
+  height: 590px;
+  margin: 1px;
+  padding: 10px;
+}
+
+.content-body{
+  height: 450px;
+  background-color: #EEEEEE;
+  margin-top: 50px;
+}
+
+.modal-dialog{
+  max-width: 50% !important;
+}
